@@ -1,0 +1,50 @@
+package org.rvslab.chapter3.reactive;
+
+
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.context.embedded.LocalServerPort;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
+import org.springframework.http.client.reactive.ReactorClientHttpConnector;
+import org.springframework.test.context.junit4.SpringRunner;
+import org.springframework.web.client.reactive.WebClient;
+
+import reactor.core.publisher.Mono;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
+public class ApplicationTests {
+
+	private WebClient webClient;
+
+	@LocalServerPort
+	private int port;
+
+	@Before
+	public void setup() {
+		
+		this.webClient = WebClient.create(new ReactorClientHttpConnector());
+		
+	}
+ 
+	
+	@Test
+	public void customArgument() throws Exception {
+		ClientRequest<Void> request = ClientRequest
+									.GET("http://localhost:{port}", this.port)
+									.build();
+
+		Mono<Greet> result = webClient
+				   .exchange(request)
+				   .then(response -> response.bodyToMono(Greet.class)).log();
+		
+		 
+		
+	}
+
+	
+}
+
+

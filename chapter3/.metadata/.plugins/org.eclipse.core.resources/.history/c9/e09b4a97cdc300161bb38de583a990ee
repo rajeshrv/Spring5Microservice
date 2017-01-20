@@ -1,0 +1,12 @@
+package org.rvslab.chapter3.bootcustomer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BootcustomerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BootcustomerApplication.class, args);
+	}
+}

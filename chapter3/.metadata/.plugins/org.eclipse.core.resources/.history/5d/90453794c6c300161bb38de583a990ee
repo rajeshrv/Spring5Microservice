@@ -1,0 +1,48 @@
+package org.rvslab.chapter3;
+
+import java.io.IOException;
+import org.junit.Assert;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
+import org.springframework.boot.test.web.client.TestRestTemplate;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpMethod;
+import org.springframework.http.ResponseEntity;
+import org.springframework.security.crypto.codec.Base64;
+import org.springframework.test.context.junit4.SpringRunner;
+import static org.assertj.core.api.Assertions.assertThat;
+import org.springframework.web.client.RestTemplate;
+
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
+public class ApplicationTests {
+
+	@Autowired
+	private TestRestTemplate restTemplate;
+ 
+	@Test
+	public void testSpringBootApp() throws JsonProcessingException, IOException {
+		String body = restTemplate.getForObject("/", String.class);
+		assertThat(new ObjectMapper().readTree(body).get("message").textValue()).isEqualTo("Hello World!");	
+	}
+
+	
+	@Test
+	public void testSecureService() {	
+		String plainCreds = "guest:guest123";
+		HttpHeaders headers = new HttpHeaders();
+		headers.add("Authorization", "Basic " + new String(Base64.encode(plainCreds.getBytes())));
+		HttpEntity<String> request = new HttpEntity<String>(headers);
+	 	
+		ResponseEntity<Greet> response = restTemplate.exchange("/", HttpMethod.GET, request, Greet.class);
+		assertThat("Hello World!".equals(response.getBody().getMessage()));
+	}
+	
+}
