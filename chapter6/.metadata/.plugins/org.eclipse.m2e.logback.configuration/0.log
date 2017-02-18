@@ -1,0 +1,761 @@
+2017-02-16 20:36:53,371 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 20:36:55,129 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.book/src/main/java
+2017-02-16 20:36:55,130 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.book/src/main/resources
+2017-02-16 20:36:55,130 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.book/src/main/resources
+2017-02-16 20:36:55,131 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.book/src/test/java
+2017-02-16 20:36:55,305 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-02-16 20:36:59,788 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:36:59,798 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:36:59,827 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:36:59,832 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:36:59,833 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 20:37:10,384 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:checkin:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/pom.xml.
+2017-02-16 20:37:10,971 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.checkin/src/main/java
+2017-02-16 20:37:10,972 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.checkin/src/main/resources
+2017-02-16 20:37:10,972 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.checkin/src/main/resources
+2017-02-16 20:37:10,973 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.checkin/src/test/java
+2017-02-16 20:37:11,045 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-02-16 20:37:11,887 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:37:11,888 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:37:11,890 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:37:11,893 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:37:11,893 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-16 20:37:20,549 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:fares:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/pom.xml.
+2017-02-16 20:37:20,869 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.fares/src/main/java
+2017-02-16 20:37:20,872 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.fares/src/main/resources
+2017-02-16 20:37:20,872 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.fares/src/main/resources
+2017-02-16 20:37:20,872 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.fares/src/test/java
+2017-02-16 20:37:20,918 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-02-16 20:37:21,685 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:37:21,686 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:37:21,687 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:37:21,691 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:37:21,691 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:37:32,149 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/pom.xml.
+2017-02-16 20:37:32,428 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.search/src/main/java
+2017-02-16 20:37:32,428 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.search/src/main/resources
+2017-02-16 20:37:32,428 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.search/src/main/resources
+2017-02-16 20:37:32,428 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.search/src/test/java
+2017-02-16 20:37:32,481 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-02-16 20:37:33,201 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:37:33,201 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:37:33,204 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:37:33,208 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:37:33,210 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-16 20:37:45,228 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/pom.xml.
+2017-02-16 20:37:45,516 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.website/src/main/java
+2017-02-16 20:37:45,517 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.website/src/main/resources
+2017-02-16 20:37:45,517 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.website/src/main/resources
+2017-02-16 20:37:45,517 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.website/src/test/java
+2017-02-16 20:37:45,559 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-02-16 20:37:46,065 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:37:46,065 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:37:46,066 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-02-16 20:37:46,075 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:37:46,075 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-16 20:39:27,851 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 20:39:28,682 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:39:28,686 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:39:28,686 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:39:28,689 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:39:28,689 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 20:39:33,955 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 20:39:34,591 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:39:34,595 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:39:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:39:34,612 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:39:34,612 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 20:40:22,508 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:40:22,514 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:40:22,514 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:40:22,518 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:40:22,518 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 20:40:47,108 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:40:47,108 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:40:47,108 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:40:47,110 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:40:47,111 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 20:41:45,835 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:checkin:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/pom.xml.
+2017-02-16 20:41:46,050 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.retry:spring-retry:jar:1.2.0.RC1 is missing, no dependency information available
+2017-02-16 20:41:46,204 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:41:46,205 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:41:46,205 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:41:46,207 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:41:46,207 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-16 20:41:49,171 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.retry:spring-retry:jar:1.2.0.RC1 is missing, no dependency information available
+2017-02-16 20:41:49,219 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:41:49,219 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:41:49,220 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:41:49,222 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:41:49,223 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-16 20:41:55,152 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 20:41:55,622 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:41:55,624 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:41:55,624 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:41:55,627 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:41:55,627 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 20:42:59,131 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:checkin:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/pom.xml.
+2017-02-16 20:42:59,475 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:42:59,476 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:42:59,476 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:42:59,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:42:59,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-16 20:43:23,793 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:43:23,793 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:43:23,793 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:43:23,795 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:43:23,795 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-16 20:43:29,504 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:43:29,504 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:43:29,504 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:43:29,506 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:43:29,506 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-16 20:43:55,702 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:fares:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/pom.xml.
+2017-02-16 20:43:55,953 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:43:55,953 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:43:55,953 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:43:55,955 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:43:55,955 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:44:14,067 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:fares:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/pom.xml.
+2017-02-16 20:44:14,440 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:44:14,440 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:44:14,440 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:44:14,442 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:44:14,442 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:44:17,441 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:44:17,442 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:44:17,456 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:44:17,458 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:44:17,458 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:44:28,758 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:44:28,758 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:44:28,758 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:44:28,762 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:44:28,762 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:44:39,629 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:44:39,629 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:44:39,629 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:44:39,631 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:44:39,631 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:45:19,454 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:fares:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/pom.xml.
+2017-02-16 20:45:19,749 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:45:19,752 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:45:19,752 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:45:19,757 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:45:19,758 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:45:22,473 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:45:22,474 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:45:22,475 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:45:22,483 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:45:22,483 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:46:13,440 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/pom.xml.
+2017-02-16 20:46:13,770 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:46:13,770 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:46:13,770 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:46:13,772 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:46:13,773 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-16 20:46:16,274 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:46:16,275 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:46:16,276 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:46:16,286 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:46:16,287 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-16 20:46:31,767 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:46:31,767 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:46:31,767 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:46:31,769 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:46:31,769 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-16 20:47:06,034 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/pom.xml.
+2017-02-16 20:47:12,047 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-16 20:47:12,327 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-16 20:47:12,969 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-thymeleaf-2.0.0.BUILD-20170216.095705-395.pom
+2017-02-16 20:47:13,236 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-thymeleaf-2.0.0.BUILD-20170216.095705-395.pom
+2017-02-16 20:47:13,245 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.0.0.BUILD-20170216.095705-395 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 20:47:13,781 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-thymeleaf-2.0.0.BUILD-20170216.095705-395.jar
+2017-02-16 20:47:14,074 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-thymeleaf-2.0.0.BUILD-20170216.095705-395.jar
+2017-02-16 20:47:14,154 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:14,154 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:47:14,154 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:47:14,156 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:14,156 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-16 20:47:15,962 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.0.0.BUILD-20170216.095705-395 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 20:47:16,034 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:16,035 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:47:16,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-02-16 20:47:16,044 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:16,044 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-16 20:47:48,081 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-16 20:47:48,598 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 20:47:48,853 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:checkin:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/pom.xml.
+2017-02-16 20:47:48,962 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:fares:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/pom.xml.
+2017-02-16 20:47:49,053 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/pom.xml.
+2017-02-16 20:47:49,135 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/pom.xml.
+2017-02-16 20:47:49,143 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.0.0.BUILD-20170216.095705-395 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 20:47:49,391 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.book/src/main/java
+2017-02-16 20:47:49,391 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.book/src/main/resources
+2017-02-16 20:47:49,391 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.book/src/main/resources
+2017-02-16 20:47:49,391 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.book/src/test/java
+2017-02-16 20:47:49,458 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.checkin/src/main/java
+2017-02-16 20:47:49,458 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.checkin/src/main/resources
+2017-02-16 20:47:49,459 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.checkin/src/main/resources
+2017-02-16 20:47:49,459 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.checkin/src/test/java
+2017-02-16 20:47:49,521 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.fares/src/main/java
+2017-02-16 20:47:49,522 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.fares/src/main/resources
+2017-02-16 20:47:49,522 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.fares/src/main/resources
+2017-02-16 20:47:49,522 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.fares/src/test/java
+2017-02-16 20:47:49,571 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.search/src/main/java
+2017-02-16 20:47:49,572 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.search/src/main/resources
+2017-02-16 20:47:49,572 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.search/src/main/resources
+2017-02-16 20:47:49,572 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.search/src/test/java
+2017-02-16 20:47:49,650 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.website/src/main/java
+2017-02-16 20:47:49,650 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.website/src/main/resources
+2017-02-16 20:47:49,650 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.website/src/main/resources
+2017-02-16 20:47:49,650 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.website/src/test/java
+2017-02-16 20:47:49,834 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-16 20:47:51,254 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:51,255 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:47:51,264 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:47:51,266 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:51,267 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 20:47:52,485 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:52,485 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:47:52,486 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:47:52,492 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:52,492 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-16 20:47:53,249 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:53,249 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:47:53,250 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:47:53,252 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:53,252 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 20:47:54,179 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:54,180 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:47:54,180 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:47:54,182 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:54,182 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-16 20:47:54,764 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.0.0.BUILD-20170216.095705-395 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 20:47:54,840 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:54,841 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 20:47:54,842 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-02-16 20:47:54,850 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:47:54,850 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-16 20:48:26,675 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:48:26,677 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:48:26,677 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 20:48:26,679 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 20:48:26,679 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-16 21:24:47,132 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:24:47,134 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:24:47,134 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:24:47,137 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:24:47,137 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 21:26:00,405 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:26:00,405 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:26:00,405 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:26:00,409 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:26:00,409 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-16 21:26:09,875 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:26:09,877 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:26:09,877 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:26:09,879 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:26:09,879 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-16 21:26:21,450 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:26:21,450 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:26:21,451 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:26:21,453 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:26:21,453 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-16 21:26:36,051 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:26:36,051 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:26:36,052 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:26:36,053 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:26:36,053 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-16 21:59:05,820 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:59:05,821 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 21:59:05,822 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 21:59:05,824 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 21:59:05,824 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:00:03,914 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:00:03,914 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:00:03,915 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:00:03,916 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:00:03,917 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:00:15,956 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:00:15,957 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:00:15,957 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:00:15,959 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:00:15,959 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:00:52,203 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:00:52,203 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:00:52,204 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:00:52,206 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:00:52,207 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:00:54,044 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:00:54,044 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:00:54,045 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:00:54,052 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:00:54,052 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:01:00,120 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:01:00,120 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:01:00,121 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:01:00,122 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:01:00,122 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:01:12,729 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:01:12,729 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:01:12,730 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:01:12,732 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:01:12,732 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:01:28,646 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:01:28,647 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:01:28,647 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:01:28,650 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:01:28,650 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:02:55,711 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 22:02:56,191 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:02:56,191 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:02:56,191 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:02:56,193 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:02:56,193 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:02:59,567 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:02:59,568 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:02:59,571 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:02:59,574 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:02:59,575 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:03:13,714 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:03:13,718 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:03:13,719 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:03:13,721 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:03:13,721 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:04:16,043 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:16,044 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:04:16,044 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:04:16,046 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:16,047 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:04:28,077 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:28,078 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:04:28,078 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:04:28,080 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:28,080 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:04:47,780 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:47,781 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:04:47,781 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:04:47,782 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:47,782 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:04:57,002 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:57,002 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:04:57,003 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:04:57,005 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:57,005 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:04:59,529 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:59,529 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:04:59,530 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:04:59,533 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:04:59,533 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:05:09,679 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:05:09,680 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:05:09,681 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:05:09,682 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:05:09,682 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:07:57,987 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:07:57,988 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:07:57,989 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:07:57,991 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:07:57,991 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:08:03,573 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:08:03,573 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:08:03,573 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:08:03,575 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:08:03,575 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:10:20,813 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:10:20,814 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:10:20,814 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:10:20,816 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:10:20,816 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:10:23,107 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:10:23,108 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:10:23,108 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:10:23,110 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:10:23,110 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:11:25,609 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:11:25,609 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:11:25,610 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:11:25,612 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:11:25,612 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:11:29,093 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:11:29,093 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:11:29,094 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:11:29,096 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:11:29,096 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:11:49,257 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:11:49,258 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:11:49,258 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:11:49,260 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:11:49,260 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:11:52,806 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:11:52,806 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:11:52,807 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:11:52,809 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:11:52,809 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:13:45,190 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:13:45,190 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:13:45,191 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:13:45,193 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:13:45,193 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:14:17,825 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:14:17,825 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:14:17,826 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:14:17,827 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:14:17,827 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:14:21,195 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:14:21,196 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:14:21,196 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:14:21,198 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:14:21,198 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:15:00,620 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:15:00,620 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:15:00,621 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:15:00,622 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:15:00,622 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:15:16,267 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:15:16,268 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:15:16,268 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:15:16,270 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:15:16,270 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:15:42,008 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:15:42,009 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:15:42,010 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:15:42,011 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:15:42,011 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:22:23,303 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:22:23,303 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:22:23,304 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:22:23,306 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:22:23,306 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:23:22,200 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 22:23:22,555 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:23:22,555 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:23:22,555 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:23:22,557 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:23:22,557 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:23:31,685 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 22:23:32,874 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.pom
+2017-02-16 22:23:32,880 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.pom
+2017-02-16 22:23:33,584 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.pom
+2017-02-16 22:23:33,740 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.pom
+2017-02-16 22:23:35,275 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.pom
+2017-02-16 22:23:35,327 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.pom
+2017-02-16 22:23:35,682 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.pom
+2017-02-16 22:23:35,683 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.pom
+2017-02-16 22:23:36,658 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.jar
+2017-02-16 22:23:36,835 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.jar
+2017-02-16 22:23:37,650 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.jar
+2017-02-16 22:23:37,743 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.jar
+2017-02-16 22:23:38,022 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.jar
+2017-02-16 22:23:38,044 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.jar
+2017-02-16 22:23:39,353 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.jar
+2017-02-16 22:23:39,354 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-test/3.0.3.RELEASE/reactor-test-3.0.3.RELEASE.jar
+2017-02-16 22:23:39,490 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:23:39,490 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:23:39,490 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:23:39,492 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:23:39,492 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:23:41,840 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-16 22:23:42,260 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:23:42,261 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:23:42,261 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:23:42,263 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:23:42,265 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-16 22:27:24,180 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:27:24,180 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:27:24,181 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:27:24,189 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:27:24,189 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 10:44:20,527 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 10:44:20,528 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 10:44:20,529 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 10:44:20,530 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 10:44:20,530 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 10:47:11,355 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 10:47:11,356 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 10:47:11,357 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 10:47:11,358 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 10:47:11,358 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 10:47:17,121 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 10:47:17,121 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 10:47:17,122 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 10:47:17,124 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 10:47:17,124 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:10:31,304 [Worker-143] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-17 11:10:31,506 [Worker-143] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-17 11:10:31,917 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.book/src/main/java
+2017-02-17 11:10:31,917 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.book/src/main/resources
+2017-02-17 11:10:31,918 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter6.book/src/main/resources
+2017-02-17 11:10:31,918 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter6.book/src/test/java
+2017-02-17 11:10:32,026 [Worker-143] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-02-17 11:10:33,589 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:10:33,589 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:10:33,591 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:10:33,594 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:10:33,594 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:10:57,077 [Worker-149] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/rajeshrv/work/spring5book/chapter6/chapter6.book
+2017-02-17 11:10:57,078 [Worker-149] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-02-17 11:38:04,549 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-17 11:38:06,328 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:38:06,333 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:38:06,370 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:38:06,377 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:38:06,377 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:38:07,798 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:checkin:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/pom.xml.
+2017-02-17 11:38:10,828 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-hal-browser/3.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:11,114 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-hal-browser/3.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:11,749 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-hal-browser/3.0.0.BUILD-SNAPSHOT/spring-data-rest-hal-browser-3.0.0.BUILD-20170208.191133-28.pom
+2017-02-17 11:38:12,217 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-hal-browser/3.0.0.BUILD-SNAPSHOT/spring-data-rest-hal-browser-3.0.0.BUILD-20170208.191133-28.pom
+2017-02-17 11:38:12,729 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-parent/3.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:13,537 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-parent/3.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:13,814 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-parent/3.0.0.BUILD-SNAPSHOT/spring-data-rest-parent-3.0.0.BUILD-20170208.191133-28.pom
+2017-02-17 11:38:14,088 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-parent/3.0.0.BUILD-SNAPSHOT/spring-data-rest-parent-3.0.0.BUILD-20170208.191133-28.pom
+2017-02-17 11:38:14,915 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-webmvc/3.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:15,181 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-webmvc/3.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:15,450 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-webmvc/3.0.0.BUILD-SNAPSHOT/spring-data-rest-webmvc-3.0.0.BUILD-20170208.191133-28.pom
+2017-02-17 11:38:15,727 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-webmvc/3.0.0.BUILD-SNAPSHOT/spring-data-rest-webmvc-3.0.0.BUILD-20170208.191133-28.pom
+2017-02-17 11:38:16,178 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-core/3.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:16,481 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-core/3.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:16,756 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-core/3.0.0.BUILD-SNAPSHOT/spring-data-rest-core-3.0.0.BUILD-20170208.191133-28.pom
+2017-02-17 11:38:17,034 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-core/3.0.0.BUILD-SNAPSHOT/spring-data-rest-core-3.0.0.BUILD-20170208.191133-28.pom
+2017-02-17 11:38:17,453 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.pom
+2017-02-17 11:38:19,270 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.pom
+2017-02-17 11:38:21,023 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.pom
+2017-02-17 11:38:21,645 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.pom
+2017-02-17 11:38:22,605 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-snapshot/org/springframework/spring-web/5.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:22,914 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot/org/springframework/spring-web/5.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:23,224 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-snapshot/org/springframework/spring-webmvc/5.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:23,529 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot/org/springframework/spring-webmvc/5.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-02-17 11:38:24,426 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.0.0.BUILD-SNAPSHOT/spring-webmvc-5.0.0.BUILD-20170216.223704-707.pom
+2017-02-17 11:38:24,891 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.0.0.BUILD-SNAPSHOT/spring-webmvc-5.0.0.BUILD-20170216.223704-707.pom
+2017-02-17 11:38:25,189 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.pom
+2017-02-17 11:38:26,090 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.pom
+2017-02-17 11:38:26,449 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.pom
+2017-02-17 11:38:26,755 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.pom
+2017-02-17 11:38:27,571 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.pom
+2017-02-17 11:38:28,707 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.pom
+2017-02-17 11:38:28,994 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.pom
+2017-02-17 11:38:29,361 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.pom
+2017-02-17 11:38:30,360 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.pom
+2017-02-17 11:38:32,345 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.pom
+2017-02-17 11:38:32,706 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.pom
+2017-02-17 11:38:33,102 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.pom
+2017-02-17 11:38:34,277 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-hal-browser/3.0.0.BUILD-SNAPSHOT/spring-data-rest-hal-browser-3.0.0.BUILD-20170208.191133-28.jar
+2017-02-17 11:38:35,289 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-hal-browser/3.0.0.BUILD-SNAPSHOT/spring-data-rest-hal-browser-3.0.0.BUILD-20170208.191133-28.jar
+2017-02-17 11:38:35,608 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-webmvc/3.0.0.BUILD-SNAPSHOT/spring-data-rest-webmvc-3.0.0.BUILD-20170208.191133-28.jar
+2017-02-17 11:38:36,299 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-webmvc/3.0.0.BUILD-SNAPSHOT/spring-data-rest-webmvc-3.0.0.BUILD-20170208.191133-28.jar
+2017-02-17 11:38:36,676 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-core/3.0.0.BUILD-SNAPSHOT/spring-data-rest-core-3.0.0.BUILD-20170208.191133-28.jar
+2017-02-17 11:38:37,289 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/data/spring-data-rest-core/3.0.0.BUILD-SNAPSHOT/spring-data-rest-core-3.0.0.BUILD-20170208.191133-28.jar
+2017-02-17 11:38:37,546 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.jar
+2017-02-17 11:38:38,507 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.jar
+2017-02-17 11:38:39,553 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.jar
+2017-02-17 11:38:40,840 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.jar
+2017-02-17 11:38:42,082 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.jar
+2017-02-17 11:38:42,964 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.jar
+2017-02-17 11:38:43,785 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.jar
+2017-02-17 11:38:44,689 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.jar
+2017-02-17 11:38:45,063 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.jar
+2017-02-17 11:38:46,494 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.jar
+2017-02-17 11:38:46,830 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.jar
+2017-02-17 11:38:55,085 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.jar
+2017-02-17 11:38:55,396 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.jar
+2017-02-17 11:38:55,902 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.jar
+2017-02-17 11:38:56,215 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.jar
+2017-02-17 11:38:56,721 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.jar
+2017-02-17 11:38:56,960 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:38:56,961 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:38:56,964 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:38:56,966 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:38:56,967 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-17 11:38:58,894 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-17 11:38:59,683 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:checkin:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/pom.xml.
+2017-02-17 11:39:00,124 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:fares:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/pom.xml.
+2017-02-17 11:39:00,388 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/pom.xml.
+2017-02-17 11:39:00,566 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/pom.xml.
+2017-02-17 11:39:01,542 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.pom
+2017-02-17 11:39:02,394 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.pom
+2017-02-17 11:39:03,028 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:03,032 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:03,058 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:03,061 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:03,062 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:39:03,928 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.pom
+2017-02-17 11:39:04,404 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.pom
+2017-02-17 11:39:05,841 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:05,844 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:05,846 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:05,847 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:05,848 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-17 11:39:05,935 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.pom
+2017-02-17 11:39:06,793 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.pom
+2017-02-17 11:39:07,077 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.pom
+2017-02-17 11:39:07,130 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:fares:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/pom.xml.
+2017-02-17 11:39:07,459 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.pom
+2017-02-17 11:39:07,480 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:07,480 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:07,481 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:07,486 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:07,486 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-17 11:39:08,295 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.pom
+2017-02-17 11:39:08,955 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/pom.xml.
+2017-02-17 11:39:09,283 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.pom
+2017-02-17 11:39:10,460 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.pom
+2017-02-17 11:39:10,475 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:10,475 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:10,483 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:10,485 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:10,485 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-17 11:39:10,768 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.pom
+2017-02-17 11:39:11,362 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/pom.xml.
+2017-02-17 11:39:11,776 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-17 11:39:12,567 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-17 11:39:12,824 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-17 11:39:13,126 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-17 11:39:13,444 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-17 11:39:13,455 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-17 11:39:14,463 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.jar
+2017-02-17 11:39:14,907 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-17 11:39:15,189 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-17 11:39:15,678 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:16,077 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.jar
+2017-02-17 11:39:16,522 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-17 11:39:17,033 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:17,363 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-17 11:39:17,997 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-17 11:39:18,517 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.jar
+2017-02-17 11:39:18,705 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-17 11:39:19,702 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:19,835 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.jar
+2017-02-17 11:39:20,658 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-17 11:39:20,785 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:22,531 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-17 11:39:22,537 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-17 11:39:22,821 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.jar
+2017-02-17 11:39:23,360 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-17 11:39:23,642 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.jar
+2017-02-17 11:39:23,850 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.jar
+2017-02-17 11:39:24,147 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:24,273 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring5/3.0.3.M1/thymeleaf-spring5-3.0.3.M1.jar
+2017-02-17 11:39:24,553 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:25,357 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:25,519 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:25,647 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-17 11:39:25,804 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-17 11:39:26,031 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-17 11:39:26,160 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-17 11:39:26,324 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-17 11:39:26,454 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-17 11:39:26,677 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-17 11:39:26,791 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-17 11:39:28,191 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-17 11:39:28,294 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:28,294 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:28,295 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-02-17 11:39:28,304 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:28,304 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-17 11:39:31,019 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:book:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/pom.xml.
+2017-02-17 11:39:31,612 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:checkin:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/pom.xml.
+2017-02-17 11:39:31,620 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:31,621 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:31,639 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:31,643 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:31,644 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-17 11:39:31,984 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:fares:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/pom.xml.
+2017-02-17 11:39:32,143 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/pom.xml.
+2017-02-17 11:39:32,409 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/pom.xml.
+2017-02-17 11:39:34,226 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:34,226 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:34,226 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:34,228 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:34,228 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:39:34,593 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:34,594 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:34,594 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:34,596 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:34,596 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-17 11:39:34,957 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:34,958 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:34,959 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:34,962 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:34,962 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-17 11:39:35,354 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:35,355 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:35,356 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:39:35,358 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:35,358 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-17 11:39:36,412 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:36,413 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:39:36,415 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-02-17 11:39:36,432 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:39:36,433 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-17 11:40:46,502 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:40:46,502 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:40:46,503 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:40:46,505 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:40:46,505 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:43:03,640 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:43:03,641 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:43:03,643 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:43:03,646 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:43:03,646 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:43:34,690 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:43:34,690 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:43:34,691 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:43:34,693 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:43:34,694 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:44:12,421 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:44:12,421 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:44:12,422 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:44:12,424 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:44:12,424 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:44:22,320 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:44:22,320 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:44:22,321 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:44:22,324 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:44:22,324 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:44:51,096 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:44:51,096 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:44:51,097 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:44:51,099 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:44:51,099 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:44:54,345 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:44:54,346 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:44:54,347 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:44:54,348 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:44:54,349 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:47:10,022 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:47:10,042 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:47:10,044 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-02-17 11:47:10,046 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:47:10,046 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-17 11:49:42,355 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:49:42,356 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:49:42,362 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:49:42,364 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:49:42,364 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.search/src/test/resources
+2017-02-17 11:50:09,322 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:50:09,322 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:50:09,323 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:50:09,326 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:50:09,326 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.fares/src/test/resources
+2017-02-17 11:50:24,836 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:50:24,838 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:50:24,839 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:50:24,841 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:50:24,841 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.checkin/src/test/resources
+2017-02-17 11:50:49,438 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:50:49,438 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:50:49,439 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-17 11:50:49,441 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:50:49,441 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.book/src/test/resources
+2017-02-17 11:57:26,010 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:57:26,011 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 11:57:26,014 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-02-17 11:57:26,017 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 11:57:26,018 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
+2017-02-17 12:03:04,797 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 12:03:04,798 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-17 12:03:04,800 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-02-17 12:03:04,802 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 12:03:04,802 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter6/chapter6.website/src/test/resources
