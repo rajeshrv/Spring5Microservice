@@ -1,0 +1,2 @@
+spring.application.name=eureka-server1
+server.port=9999
