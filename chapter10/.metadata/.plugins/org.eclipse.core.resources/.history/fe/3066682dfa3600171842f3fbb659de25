@@ -1,0 +1,4 @@
+spring.application.name=search-apigateway
+server.port=8095
+spring.cloud.config.uri=http://172.31.21.144:8888
+ 

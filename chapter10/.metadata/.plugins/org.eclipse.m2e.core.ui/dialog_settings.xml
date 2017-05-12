@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/rajeshrv/work/spring5book/chapter9/chapter9.website"/>
+			<item value="/Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway"/>
+			<item value="/Users/rajeshrv/work/spring5book/chapter9/chapter9.search"/>
+			<item value="/Users/rajeshrv/work/spring5book/chapter9/chapter9.eurekaserver"/>
+			<item value="/Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

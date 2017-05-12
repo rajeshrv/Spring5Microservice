@@ -1,0 +1,4 @@
+spring.application.name=search-service
+server.port=8090
+
+spring.cloud.config.uri=http://172.31.10.39:8888

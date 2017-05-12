@@ -1,0 +1,710 @@
+2017-04-01 14:56:49,742 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:config-server:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver/pom.xml.
+2017-04-01 14:56:50,966 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.configserver/src/main/java
+2017-04-01 14:56:50,967 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.configserver/src/main/resources
+2017-04-01 14:56:50,967 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.configserver/src/main/resources
+2017-04-01 14:56:50,968 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.configserver/src/test/java
+2017-04-01 14:56:51,123 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-04-01 14:56:52,540 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:56:52,551 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-01 14:56:52,552 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-01 14:56:52,571 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:56:52,572 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver/src/test/resources
+2017-04-01 14:57:08,665 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:eureka-server:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.eurekaserver/pom.xml.
+2017-04-01 14:57:09,404 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.eurekaserver/src/main/java
+2017-04-01 14:57:09,404 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.eurekaserver/src/main/resources
+2017-04-01 14:57:09,405 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.eurekaserver/src/main/resources
+2017-04-01 14:57:09,405 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.eurekaserver/src/test/java
+2017-04-01 14:57:09,469 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-04-01 14:57:10,206 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:57:10,206 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-01 14:57:10,207 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-01 14:57:10,209 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:57:10,210 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.eurekaserver/src/test/resources
+2017-04-01 14:57:20,169 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.search/pom.xml.
+2017-04-01 14:57:20,840 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.search/src/main/java
+2017-04-01 14:57:20,840 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.search/src/main/resources
+2017-04-01 14:57:20,840 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.search/src/main/resources
+2017-04-01 14:57:20,841 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.search/src/test/java
+2017-04-01 14:57:20,916 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-04-01 14:57:22,185 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:57:22,185 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-01 14:57:22,186 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-01 14:57:22,189 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:57:22,189 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search/src/test/resources
+2017-04-01 14:57:32,791 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search-apigateway:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/pom.xml.
+2017-04-01 14:57:33,294 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.search-apigateway/src/main/java
+2017-04-01 14:57:33,294 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.search-apigateway/src/main/resources
+2017-04-01 14:57:33,294 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.search-apigateway/src/main/resources
+2017-04-01 14:57:33,295 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.search-apigateway/src/test/java
+2017-04-01 14:57:33,355 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-04-01 14:57:33,959 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:57:33,959 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-01 14:57:33,960 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-01 14:57:33,963 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:57:33,963 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/src/test/resources
+2017-04-01 14:57:46,328 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/pom.xml.
+2017-04-01 14:57:46,741 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.website/src/main/java
+2017-04-01 14:57:46,742 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.website/src/main/resources
+2017-04-01 14:57:46,742 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter9.website/src/main/resources
+2017-04-01 14:57:46,743 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter9.website/src/test/java
+2017-04-01 14:57:46,796 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-04-01 14:57:47,421 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:57:47,429 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-01 14:57:47,430 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-04-01 14:57:47,440 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-01 14:57:47,440 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/src/test/resources
+2017-04-06 20:38:54,965 [JavaFX Application Thread] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-04-06 20:38:55,157 [Worker-175] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:config-server:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver/pom.xml.
+2017-04-06 20:38:55,653 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:38:55,655 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:38:55,655 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:38:55,658 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:38:55,658 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver/src/test/resources
+2017-04-06 20:39:09,221 [JavaFX Application Thread] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-04-06 20:39:09,389 [Worker-174] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:eureka-server:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.eurekaserver/pom.xml.
+2017-04-06 20:39:09,903 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:39:09,903 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:39:09,903 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:39:09,905 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:39:09,905 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.eurekaserver/src/test/resources
+2017-04-06 20:39:20,691 [JavaFX Application Thread] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-04-06 20:39:20,765 [Worker-177] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.search/pom.xml.
+2017-04-06 20:39:21,466 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:39:21,466 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:39:21,466 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:39:21,473 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:39:21,473 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search/src/test/resources
+2017-04-06 20:39:33,337 [JavaFX Application Thread] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-04-06 20:39:33,443 [Worker-177] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search-apigateway:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/pom.xml.
+2017-04-06 20:39:33,845 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:39:33,845 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:39:33,845 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:39:33,847 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:39:33,847 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/src/test/resources
+2017-04-06 20:39:45,053 [JavaFX Application Thread] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-04-06 20:39:45,164 [Worker-176] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/pom.xml.
+2017-04-06 20:39:45,624 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:39:45,625 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:39:45,625 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:39:45,627 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:39:45,627 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/src/test/resources
+2017-04-06 20:48:29,760 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:48:29,762 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:48:29,762 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-06 20:48:29,766 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:48:29,766 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search/src/test/resources
+2017-04-06 20:48:41,374 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:48:41,375 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:48:41,375 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-06 20:48:41,377 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:48:41,377 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/src/test/resources
+2017-04-06 20:48:53,898 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:48:53,898 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:48:53,898 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-06 20:48:53,901 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:48:53,901 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/src/test/resources
+2017-04-06 20:57:41,696 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:57:41,697 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:57:41,697 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:57:41,699 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:57:41,699 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search/src/test/resources
+2017-04-06 20:57:44,743 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:57:44,744 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:57:44,744 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 20:57:44,745 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 20:57:44,745 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search/src/test/resources
+2017-04-06 21:10:34,641 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:10:34,642 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:10:34,642 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:10:34,645 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:10:34,645 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/src/test/resources
+2017-04-06 21:11:13,175 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:11:13,176 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:11:13,176 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:11:13,178 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:11:13,178 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/src/test/resources
+2017-04-06 21:11:23,722 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:11:23,722 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:11:23,723 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:11:23,725 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:11:23,725 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/src/test/resources
+2017-04-06 21:11:27,783 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:11:27,784 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:11:27,784 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:11:27,786 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:11:27,787 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/src/test/resources
+2017-04-06 21:12:08,218 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:12:08,219 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:12:08,219 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:12:08,221 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:12:08,221 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/src/test/resources
+2017-04-06 21:12:35,237 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:12:35,237 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:12:35,237 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:12:35,238 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:12:35,238 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/src/test/resources
+2017-04-06 21:12:52,452 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:12:52,452 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:12:52,453 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-06 21:12:52,455 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 21:12:52,455 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/src/test/resources
+2017-04-07 00:08:46,247 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:08:46,248 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-07 00:08:46,248 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-07 00:08:46,252 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:08:46,252 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver/src/test/resources
+2017-04-07 00:09:04,523 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:09:04,523 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-07 00:09:04,524 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-07 00:09:04,527 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:09:04,527 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.eurekaserver/src/test/resources
+2017-04-07 00:09:12,892 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:09:12,893 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-07 00:09:12,893 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-07 00:09:12,896 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:09:12,896 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search/src/test/resources
+2017-04-07 00:09:22,288 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:09:22,289 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-07 00:09:22,290 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-07 00:09:22,293 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:09:22,293 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.search-apigateway/src/test/resources
+2017-04-07 00:09:31,379 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:09:31,379 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-07 00:09:31,380 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-07 00:09:31,383 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 00:09:31,383 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.website/src/test/resources
+2017-04-07 11:45:15,755 [Worker-344] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 11:45:15,756 [Worker-344] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-07 11:45:15,757 [Worker-344] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-07 11:45:15,759 [Worker-344] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 11:45:15,760 [Worker-344] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver/src/test/resources
+2017-04-07 11:53:19,683 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 11:53:19,684 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-07 11:53:19,684 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-07 11:53:19,686 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 11:53:19,686 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver/src/test/resources
+2017-04-07 11:54:43,321 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 11:54:43,322 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-07 11:54:43,322 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-07 11:54:43,325 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-07 11:54:43,325 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter9/chapter9.configserver/src/test/resources
+2017-05-11 21:20:08,571 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:config-server:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.configserver/pom.xml.
+2017-05-11 21:20:09,884 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.configserver/src/main/java
+2017-05-11 21:20:09,884 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.configserver/src/main/resources
+2017-05-11 21:20:09,885 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.configserver/src/main/resources
+2017-05-11 21:20:09,886 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.configserver/src/test/java
+2017-05-11 21:20:10,005 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-05-11 21:20:11,517 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:20:11,523 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:20:11,524 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-11 21:20:11,544 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:20:11,548 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.configserver/src/test/resources
+2017-05-11 21:20:27,127 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:eureka-server:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.eurekaserver/pom.xml.
+2017-05-11 21:20:27,891 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.eurekaserver/src/main/java
+2017-05-11 21:20:27,892 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.eurekaserver/src/main/resources
+2017-05-11 21:20:27,892 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.eurekaserver/src/main/resources
+2017-05-11 21:20:27,892 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.eurekaserver/src/test/java
+2017-05-11 21:20:27,967 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-05-11 21:20:28,819 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:20:28,820 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:20:28,820 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-11 21:20:28,823 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:20:28,823 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.eurekaserver/src/test/resources
+2017-05-11 21:20:41,603 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/pom.xml.
+2017-05-11 21:20:42,334 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.search/src/main/java
+2017-05-11 21:20:42,335 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.search/src/main/resources
+2017-05-11 21:20:42,335 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.search/src/main/resources
+2017-05-11 21:20:42,336 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.search/src/test/java
+2017-05-11 21:20:42,420 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-05-11 21:20:43,555 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:20:43,555 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:20:43,556 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-11 21:20:43,559 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:20:43,559 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-11 21:20:53,380 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search-apigateway:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/pom.xml.
+2017-05-11 21:20:53,814 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.search-apigateway/src/main/java
+2017-05-11 21:20:53,815 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.search-apigateway/src/main/resources
+2017-05-11 21:20:53,815 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.search-apigateway/src/main/resources
+2017-05-11 21:20:53,815 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.search-apigateway/src/test/java
+2017-05-11 21:20:53,887 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-05-11 21:20:54,518 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:20:54,518 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:20:54,519 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-11 21:20:54,522 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:20:54,522 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-11 21:21:07,603 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/pom.xml.
+2017-05-11 21:21:08,036 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.website/src/main/java
+2017-05-11 21:21:08,036 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.website/src/main/resources
+2017-05-11 21:21:08,037 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter10.website/src/main/resources
+2017-05-11 21:21:08,038 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10.website/src/test/java
+2017-05-11 21:21:08,102 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-05-11 21:21:08,727 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:21:08,728 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:21:08,728 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-11 21:21:08,738 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:21:08,739 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-11 21:21:28,091 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-05-11 21:21:28,160 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:config-server:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.configserver/pom.xml.
+2017-05-11 21:21:28,436 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:21:28,438 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:21:28,438 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:21:28,442 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:21:28,443 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.configserver/src/test/resources
+2017-05-11 21:21:43,957 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-05-11 21:21:44,042 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:eureka-server:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.eurekaserver/pom.xml.
+2017-05-11 21:21:44,537 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:21:44,537 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:21:44,537 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:21:44,539 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:21:44,539 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.eurekaserver/src/test/resources
+2017-05-11 21:21:55,185 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-05-11 21:21:55,262 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/pom.xml.
+2017-05-11 21:21:55,814 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:21:55,814 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:21:55,814 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:21:55,820 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:21:55,820 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-11 21:22:07,600 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-05-11 21:22:07,709 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:search-apigateway:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/pom.xml.
+2017-05-11 21:22:08,104 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:22:08,104 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:22:08,104 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:22:08,106 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:22:08,107 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-11 21:22:21,336 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.105.1.v20160907-0248.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.1.v20160819-2118.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.1.v20160708-1632.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar:na]
+2017-05-11 21:22:21,400 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.brownfield.pss:website:1.0 @ /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/pom.xml.
+2017-05-11 21:22:21,725 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:22:21,725 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:22:21,725 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 21:22:21,727 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 21:22:21,727 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-11 22:07:05,502 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 22:07:05,504 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 22:07:05,505 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-11 22:07:05,507 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 22:07:05,507 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.eurekaserver/src/test/resources
+2017-05-11 22:07:17,920 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 22:07:17,920 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 22:07:17,921 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-11 22:07:17,923 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 22:07:17,923 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-11 22:07:28,584 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 22:07:28,585 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 22:07:28,585 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-11 22:07:28,588 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 22:07:28,588 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-11 22:07:38,651 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 22:07:38,651 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-11 22:07:38,651 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-11 22:07:38,653 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 22:07:38,654 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-12 14:02:46,395 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:02:46,397 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:02:46,398 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-12 14:02:46,401 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:02:46,401 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.eurekaserver/src/test/resources
+2017-05-12 14:02:52,597 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:02:52,598 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:02:52,598 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-12 14:02:52,602 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:02:52,603 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:02:59,087 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:02:59,087 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:02:59,088 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-12 14:02:59,090 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:02:59,090 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-12 14:03:05,608 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:03:05,609 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:03:05,609 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-12 14:03:05,613 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:03:05,614 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-12 14:27:51,439 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:27:51,440 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:27:51,440 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:27:51,442 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:27:51,442 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:28:04,270 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:28:04,270 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:28:04,270 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:28:04,272 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:28:04,272 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-12 14:28:15,740 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:28:15,740 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:28:15,741 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:28:15,743 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:28:15,743 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-12 14:29:10,591 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:29:10,592 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:29:10,592 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:29:10,594 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:29:10,594 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:29:20,728 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:29:20,728 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:29:20,728 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:29:20,730 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:29:20,730 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-12 14:29:25,105 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:29:25,105 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:29:25,105 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:29:25,107 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:29:25,107 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-12 14:30:07,622 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:30:07,622 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:30:07,622 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:30:07,624 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:30:07,624 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-12 14:30:14,753 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:30:14,753 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:30:14,753 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:30:14,756 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:30:14,756 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-12 14:30:21,928 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:30:21,928 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:30:21,928 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:30:21,930 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:30:21,931 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:31:36,309 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:31:36,309 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:31:36,309 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:31:36,310 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:31:36,310 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:31:54,159 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:31:54,159 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:31:54,159 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:31:54,160 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:31:54,161 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:33:43,407 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:33:43,408 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:33:43,408 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:33:43,410 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:33:43,410 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:33:55,479 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:33:55,479 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:33:55,481 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:33:55,483 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:33:55,483 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-12 14:33:59,553 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:33:59,553 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:33:59,554 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:33:59,555 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:33:59,555 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-12 14:56:50,861 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:56:50,861 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:56:50,861 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:56:50,866 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:56:50,866 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:57:37,781 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:57:37,781 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:57:37,781 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:57:37,783 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:57:37,783 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search/src/test/resources
+2017-05-12 14:58:14,350 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:58:14,352 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:58:14,352 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:58:14,354 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:58:14,354 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-12 14:58:24,520 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:58:24,520 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:58:24,520 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:58:24,521 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:58:24,521 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-12 14:58:38,543 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:58:38,543 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:58:38,543 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:58:38,545 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:58:38,546 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-12 14:58:43,418 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:58:43,418 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:58:43,418 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:58:43,420 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:58:43,420 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources
+2017-05-12 14:59:39,222 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:59:39,223 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:59:39,223 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:59:39,224 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:59:39,224 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.search-apigateway/src/test/resources
+2017-05-12 14:59:45,601 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:59:45,601 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:59:45,601 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 14:59:45,602 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 14:59:45,603 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rajeshrv/work/spring5book/chapter10/chapter10.website/src/test/resources

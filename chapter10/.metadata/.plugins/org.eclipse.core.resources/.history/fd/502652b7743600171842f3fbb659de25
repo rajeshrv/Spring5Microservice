@@ -1,0 +1,3 @@
+spring.application.name=test-client
+server.port=8001
+spring.cloud.config.uri=http://172.31.10.39:8888

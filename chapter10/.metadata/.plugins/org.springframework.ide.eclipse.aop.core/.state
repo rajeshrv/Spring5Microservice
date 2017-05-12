@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="chapter9.eurekaserver"/>
+<aop-project name="chapter9.configserver"/>
+<aop-project name="chapter9.search-apigateway"/>
+<aop-project name="chapter9.website"/>
+<aop-project name="chapter9.search"/>
+</aop-reference-model>
