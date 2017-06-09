@@ -13,11 +13,11 @@
     <module>chapter3.bootactuator</module>
     <module>chapter3.bootcustomer</module>
     <module>chapter3.bootsecurity</module>
-    <module>chapter3.reactive</module>
     <module>chapter3.bootrest</module>
     <module>chapter3.bootcustomernotifcation</module>
     <module>chapter3.boothateoas</module>
     <module>chapter3.bootmessaging</module>
+     <module>chapter3.webflux</module>
     <module>chapter3.bootswagger</module>
   </modules>
 </project>

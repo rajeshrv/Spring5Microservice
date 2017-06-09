@@ -19,16 +19,17 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 import org.springframework.stereotype.Component;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import reactor.core.publisher.Mono;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
 
 @SpringBootApplication
-//@EnableSwagger2
+@EnableSwagger2
 public class Application {
 
     public static void main(String[] args) {
@@ -48,7 +49,10 @@ public class Application {
 							customerRepository.save(new Customer("Sean","sean@boot.com"));
 						};
 	}
+    
+ 
 }
+
 
 @RestController
 class CustomerController{
@@ -61,15 +65,9 @@ class CustomerController{
 	}
 	
 	@RequestMapping( path="/register", method = RequestMethod.POST)
-	Mono<Customer> register(@RequestBody Mono<Customer> customer){
-		return customerRegistrar.register(customer);
+	Mono<Customer> register(@RequestBody Customer customer){		
+	 	return customerRegistrar.register(customer);	 
 	}
-	@GetMapping("/")
-	String home(){
-		customerRegistrar.register(Mono.just(new Customer("Adam","adam@boot.com")));
-		return "Hello Customer";
-	}
-	
 }
 
 @Component 
@@ -85,40 +83,31 @@ class CustomerRegistrar {
 		this.sender = sender;
 	}
 	
-	//Customer register(Customer customer) { 
 	
-	public Mono<Customer> register(Mono<Customer> monoCustomer){
+	public Mono<Customer> registerMono(Mono<Customer> monoCustomer){
 		monoCustomer.doOnNext(customer -> {
 			if(customerRespository.findByName(customer.getName()).isPresent())
-				System.out.println("Already there");
+				System.out.println("Duplicate Customer");
+			else { 
+				customerRespository.save(customer); 
+				//sender.send(customer.getEmail());		
+			}
+		}).subscribe();
+		return monoCustomer;
+	}
+ 
+	// ideally repository will return a Mono object
+	public Mono<Customer> register(Customer customer){
+			if(customerRespository.findByName(customer.getName()).isPresent())
+				System.out.println("Duplicate Customer. No Action required");
 			else { 
 				customerRespository.save(customer); 
 				sender.send(customer.getEmail());		
 			}
-		}).subscribe();
-		return monoCustomer;
-		
-		//mono.then(userrepo::save);
-		
-		//Mono.from
-		//map
-		//subscribe
-		
-		
-		/*
-		
-		Optional<Customer> existingCustomer= customerRespository.findByName(customer.getName());
-		if (existingCustomer.isPresent()){
-			throw new RuntimeException("is already exists");
-		} else {
-			customerRespository.save(customer); 
-			sender.send(customer.getEmail());
-		} 
-		return customer;
-		
-		*/
+		return Mono.just(customer);
 	}
 } 
+
 
 @Component 
 @Lazy
@@ -137,21 +126,23 @@ class Sender {
 	}
 	
 	public void send(String message){
-		//template.convertAndSend("CustomerQ", message);
+		template.convertAndSend("CustomerQ", message);
 		System.out.println("Ready to send message but suppressed "+ message);
 		 
 	}
 } 
 
-
+//repository does not support Reactive. Ideally this should use reactive repository
 @RepositoryRestResource
 @Lazy
 interface CustomerRespository extends JpaRepository <Customer,Long>{
 	Optional<Customer> findByName(@Param("name") String name);
 }
 
+
+//Entity class
 @Entity
-class Customer {
+class Customer{
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;

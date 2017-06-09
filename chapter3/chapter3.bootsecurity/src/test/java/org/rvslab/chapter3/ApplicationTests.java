@@ -3,18 +3,13 @@ package org.rvslab.chapter3;
 import static org.assertj.core.api.Assertions.assertThat;
 
 import java.io.IOException;
+import java.util.Arrays;
 
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
-import org.springframework.context.annotation.Bean;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpMethod;
-import org.springframework.http.ResponseEntity;
-import org.springframework.security.crypto.codec.Base64;
 import org.springframework.security.oauth2.client.DefaultOAuth2ClientContext;
 import org.springframework.security.oauth2.client.OAuth2RestTemplate;
 import org.springframework.security.oauth2.client.token.grant.password.ResourceOwnerPasswordResourceDetails;
@@ -26,10 +21,6 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = WebEnvironment.DEFINED_PORT)
 public class ApplicationTests {
-
-	//@Autowired
-	//private TestRestTemplate restTemplate;
- 
   
 	
 	@Test
@@ -39,18 +30,7 @@ public class ApplicationTests {
 		assertThat("Hello World!".equals(body.getMessage()));	
 	}
 
-	
-	@Test
-	public void testSecureService() {	
-		String plainCreds = "guest:guest123";
-		HttpHeaders headers = new HttpHeaders();
-		headers.add("Authorization", "Basic " + new String(Base64.encode(plainCreds.getBytes())));
-		HttpEntity<String> request = new HttpEntity<String>(headers);
-	 	
-		RestTemplate restTemplate = new RestTemplate();
-		ResponseEntity<Greet> response = restTemplate.exchange("http://localhost:8080", HttpMethod.GET, request, Greet.class);
-		assertThat("Hello World!".equals(response.getBody().getMessage()));
-	}
+
 
 	@Test
 	public void testOAuthService() {	
@@ -61,6 +41,7 @@ public class ApplicationTests {
         resource.setClientId("trustedclient");
         resource.setClientSecret("trustedclient123");
         resource.setGrantType("password");
+        resource.setScope(Arrays.asList(new String[]{"read","write","trust"}));
   
         DefaultOAuth2ClientContext clientContext = new DefaultOAuth2ClientContext();
         OAuth2RestTemplate restTemplate = new OAuth2RestTemplate(resource, clientContext);
