@@ -36,7 +36,7 @@ public class CheckinComponent {
 	}
 	
 	public CheckInRecord getCheckInRecord(long id){
-		return checkinRepository.findOne(id);
+		return checkinRepository.findById(id).get();
 	}
 	
 }	

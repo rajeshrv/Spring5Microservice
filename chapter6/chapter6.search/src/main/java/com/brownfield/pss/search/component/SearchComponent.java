@@ -13,6 +13,7 @@ import com.brownfield.pss.search.entity.Flight;
 import com.brownfield.pss.search.entity.Inventory;
 import com.brownfield.pss.search.repository.FlightRepository;
 
+
 @Component
 public class SearchComponent {
 	private FlightRepository flightRepository;
@@ -25,9 +26,10 @@ public class SearchComponent {
 	}
 
 	public List<Flight> search(SearchQuery query){
-		List<Flight> flights= flightRepository.findByOriginAndDestinationAndFlightDate(query.getOrigin(),
-																query.getDestination(),
-																query.getFlightDate()); 
+		List<Flight> flights= flightRepository.findByOriginAndDestinationAndFlightDate(
+										query.getOrigin(),
+										query.getDestination(),
+										query.getFlightDate()); 
 		List<Flight> searchResult = new ArrayList<Flight>();
 		searchResult.addAll(flights);
 		flights.forEach(flight -> {

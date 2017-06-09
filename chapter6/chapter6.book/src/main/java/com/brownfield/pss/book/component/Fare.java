@@ -1,5 +1,6 @@
 package com.brownfield.pss.book.component;
 
+
 public class Fare {
 	String flightNumber;
 	String flightDate;

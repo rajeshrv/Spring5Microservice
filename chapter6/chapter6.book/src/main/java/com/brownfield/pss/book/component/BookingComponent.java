@@ -20,6 +20,7 @@ import com.brownfield.pss.book.repository.InventoryRepository;
 
 import reactor.core.publisher.Mono;
 
+
 @Component
 public class BookingComponent {
 	private static final Logger logger = LoggerFactory.getLogger(BookingComponent.class);
@@ -85,19 +86,21 @@ public class BookingComponent {
 	} 
 
 	public BookingRecord getBooking(long id) {
-		return bookingRepository.findOne(id);
+		return bookingRepository.findById(new Long(id)).get();
 	} 
 	
 	
 	public void updateStatus(String status, long bookingId) {
-		BookingRecord record = bookingRepository.findOne(bookingId);
+		BookingRecord record = bookingRepository.findById(new Long(bookingId)).get();
 		record.setStatus(status);
 	}
 	
 	public void validateFareReactively(BookingRecord record){
-	 	Mono<Fare> result = webClient.get().uri("/fares/get?flightNumber="+record.getFlightNumber()+"&flightDate="+record.getFlightDate())
-				.accept(MediaType.APPLICATION_JSON)
-				.exchange().then(response -> response.bodyToMono(Fare.class));
+	 	Mono<Fare> result = webClient.get()
+	 			                      .uri("/fares/get?flightNumber="+record.getFlightNumber()+"&flightDate="+record.getFlightDate())
+	 			                      .accept(MediaType.APPLICATION_JSON)
+	 			                      .exchange()
+	 			                      .flatMap(response -> response.bodyToMono(Fare.class));
 		result.subscribe(fare ->  checkFare(record.getFare(),fare.getFare()));
 		
 	}

@@ -36,7 +36,7 @@ public class Application implements CommandLineRunner {
 		flights.add(new Flight("BF103", "HOU","SFO","22-JAN-18",new Fares("103", "USD"),new Inventory(100)));
 		flights.add(new Flight("BF104", "LAX","SFO","22-JAN-18",new Fares("104", "USD"),new Inventory(100)));
 	    
-		flightRepository.save(flights);
+		flightRepository.saveAll(flights);
 		
 		logger.info("Looking to load flights...");
 		for (Flight flight : flightRepository.findByOriginAndDestinationAndFlightDate("NYC", "SFO", "22-JAN-18")) {

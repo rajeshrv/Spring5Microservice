@@ -33,7 +33,7 @@ public class Application implements CommandLineRunner {
 		
 		
 		logger.info("Looking to load checkedIn record..."); 
-	    logger.info("Result: " + repository.findOne(result.getId()));
+	    logger.info("Result: " + repository.findById(result.getId()));
  
 	    
 	}

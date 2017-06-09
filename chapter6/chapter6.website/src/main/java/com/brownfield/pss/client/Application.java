@@ -6,7 +6,6 @@ import java.util.Set;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -32,8 +31,11 @@ public class Application implements CommandLineRunner {
 	public void run(String... strings) throws Exception {
 		//Search for a flight
 		SearchQuery searchQuery = new SearchQuery("NYC","SFO","22-JAN-18");
- 		//Flight[] flights = searchClient.postForObject("http://search-service/search/get", searchQuery, Flight[].class); 
-		Flight[] flights = searchClient.postForObject("http://localhost:8083/search/get", searchQuery, Flight[].class); 
+ 		Flight[] flights = searchClient.postForObject("http://search-service/search/get", searchQuery, Flight[].class); 
+		 
+		 
+		
+		//Flight[] flights = searchClient.postForObject("http://localhost:8083/search/get", searchQuery, Flight[].class); 
  		
 		Arrays.asList(flights).forEach(flight -> logger.info(" flight >"+ flight));
   		
