@@ -7,8 +7,6 @@ import java.util.Set;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
@@ -16,16 +14,16 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.client.RestTemplate;
-import org.springframework.context.annotation.Bean;
-
 
 @Controller
 public class BrownFieldSiteController {
 	private static final Logger logger = LoggerFactory.getLogger(BrownFieldSiteController.class);
 
-	@Autowired
-    private RestTemplate restTemplate;
-	
+  	RestTemplate searchClient = new RestTemplate();
+
+  	RestTemplate bookingClient = new RestTemplate();
+
+  	RestTemplate checkInClient = new RestTemplate();
 	
     @RequestMapping(value="/", method=RequestMethod.GET)
     public String greetingForm(Model model) {
@@ -38,7 +36,7 @@ public class BrownFieldSiteController {
 
    @RequestMapping(value="/search", method=RequestMethod.POST)
    public String greetingSubmit(@ModelAttribute UIData uiData, Model model) {
-		Flight[] flights = restTemplate.postForObject("http://search-apigateway/api/search/get", uiData.getSearchQuery(), Flight[].class); 
+		Flight[] flights = searchClient.postForObject("http://192.168.0.101:8090/search/get", uiData.getSearchQuery(), Flight[].class); 
 		uiData.setFlights(Arrays.asList(flights));
 		model.addAttribute("uidata", uiData);
        return "result";
@@ -72,7 +70,7 @@ public class BrownFieldSiteController {
 		long bookingId =0;
 		try { 
 			//long bookingId = bookingClient.postForObject("http://book-service/booking/create", booking, long.class); 
-			 bookingId = restTemplate.postForObject("http://book-apigateway/api/booking/create", booking, long.class); 
+			 bookingId = bookingClient.postForObject("http://192.168.0.101:8060/booking/create", booking, long.class); 
 			logger.info("Booking created "+ bookingId);
 		}catch (Exception e){
 			logger.error("BOOKING SERVICE NOT AVAILABLE...!!!");
@@ -91,7 +89,7 @@ public class BrownFieldSiteController {
 	@RequestMapping(value="/search-booking-get", method=RequestMethod.POST)
 	public String searchBookingSubmit(@ModelAttribute UIData uiData, Model model) {
 		Long id = new Long(uiData.getBookingid());
- 		BookingRecord booking = restTemplate.getForObject("http://book-apigateway/api/booking/get/"+id, BookingRecord.class);
+ 		BookingRecord booking = bookingClient.getForObject("http://192.168.0.101:8060/booking/get/"+id, BookingRecord.class);
 		Flight flight = new Flight(booking.getFlightNumber(), booking.getOrigin(),booking.getDestination()
 				,booking.getFlightDate(),new Fares(booking.getFare(),"AED"));
 		Passenger pax = booking.getPassengers().iterator().next();
@@ -119,7 +117,7 @@ public class BrownFieldSiteController {
 			CheckInRecord checkIn = new CheckInRecord(firstName, lastName, "28C", null,
 					  									flightDate,flightDate, new Long(bookingid).longValue());
 
-			long checkinId = restTemplate.postForObject("http://checkin-apigateway/api/checkin/create", checkIn, long.class); 
+			long checkinId = checkInClient.postForObject("http://192.168.0.101:8070/checkin/create", checkIn, long.class); 
 	   		model.addAttribute("message","Checked In, Seat Number is 28c , checkin id is "+ checkinId);
 	       return "checkinconfirm"; 
 	}	

@@ -5,15 +5,15 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.brownfield</groupId>
-  <artifactId>pss-parent</artifactId>
+  <artifactId>pss-parent-4</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
 
   <modules>
+    <module>chapter9.book</module>
+    <module>chapter9.checkin</module>
+    <module>chapter9.fares</module>
     <module>chapter9.search</module>
-    <module>chapter9.search-apigateway</module>
-    <module>chapter9.configserver</module>
-    <module>chapter9.eurekaserver</module>
     <module>chapter9.website</module>
   </modules>
 </project>
