@@ -12,7 +12,6 @@ import com.brownfield.pss.search.controller.SearchQuery;
 import com.brownfield.pss.search.entity.Flight;
 import com.brownfield.pss.search.entity.Inventory;
 import com.brownfield.pss.search.repository.FlightRepository;
-import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 
 @Component
@@ -26,11 +25,11 @@ public class SearchComponent {
 		this.flightRepository = flightRepository;
 	}
 
-	@HystrixCommand(fallbackMethod = "searchFallback")
 	public List<Flight> search(SearchQuery query){
-		List<Flight> flights= flightRepository.findByOriginAndDestinationAndFlightDate(query.getOrigin(),
-																query.getDestination(),
-																query.getFlightDate()); 
+		List<Flight> flights= flightRepository.findByOriginAndDestinationAndFlightDate(
+										query.getOrigin(),
+										query.getDestination(),
+										query.getFlightDate()); 
 		List<Flight> searchResult = new ArrayList<Flight>();
 		searchResult.addAll(flights);
 		flights.forEach(flight -> {
@@ -41,10 +40,6 @@ public class SearchComponent {
 			}
 		});
 		return searchResult; 
-	}
-
-	public List<Flight> searchFallback(SearchQuery query){
-		return new ArrayList<Flight>();
 	}
 
 	public void updateInventory(String flightNumber, String flightDate, int inventory) {
