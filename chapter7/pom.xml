@@ -14,7 +14,7 @@
     <module>chapter7.book-apigateway</module>
     <module>chapter7.search</module>
     <module>chapter7.search-apigateway</module>
-    <module>chapter7.fares</module>
+    <module>chapter7.fares</module>  
     <module>chapter7.fares-apigateway</module>
     <module>chapter7.checkin</module>
     <module>chapter7.checkin-apigateway</module>
